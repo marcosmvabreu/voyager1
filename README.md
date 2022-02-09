@@ -1,2 +1,2 @@
 Meu primeiro projeto no github.
-Este projeto foi criado no módulo sobre Git e Github da OneBitCode.
+Este projeto foi criado no módulo sobre Git e Github da OneBitCode...
